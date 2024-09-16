@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[30]:
-
 
 import pandas as pd
 import numpy as np
@@ -119,7 +114,6 @@ actual_distance = 150  # Use the actual distance for comparison
 predict_and_compare(rssi1, rssi2, speed1, speed2, actual_env, actual_distance)
 
 
-# In[ ]:
 
 
 
